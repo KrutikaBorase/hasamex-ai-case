@@ -1,0 +1,23 @@
+# Submission Checklist
+
+- [ ] App runs locally
+- [ ] Interview Guide works
+- [ ] Ask Across Calls works
+- [ ] Cross-Call Analysis works
+- [ ] Transcript Explorer works
+- [ ] Exact quotes display correctly
+- [ ] Timestamps display correctly
+- [ ] Expert names display correctly
+- [ ] Market names display correctly
+- [ ] Gemini synthesis works
+- [ ] No hallucinated source metadata
+- [ ] Error handling works
+- [x] requirements.txt updated
+- [x] README completed
+- [x] DEMO_SCRIPT.md completed
+- [x] `.gitignore` protects secrets
+- [ ] No API keys committed
+- [ ] Git repository clean
+- [ ] GitHub repository ready
+- [ ] Demo video recorded
+- [ ] Final submission package ready
