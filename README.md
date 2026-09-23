@@ -1,5 +1,13 @@
 # Hasamex AI Engineer Case Study
 
+## Live Application
+
+**Streamlit App:**  
+https://hasamex-ai-case-bwtrmxueq4ywt9vbyrhxbn.streamlit.app/
+
+**Source Code:**  
+https://github.com/KrutikaBorase/hasamex-ai-case
+
 ## Overview
 
 This Streamlit application analyzes three expert interviews about robotic surgery adoption in France, Germany, and the United Kingdom. It retrieves relevant expert responses and uses Gemini to produce concise qualitative synthesis while Python renders the exact transcript evidence, timestamps, and metadata.
